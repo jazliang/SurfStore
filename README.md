@@ -1,7 +1,3 @@
-# CSE 224 Homework 5
-
-Basic starter code for Homework 5
-
 Use the following commands to run the blockstore, metadata store and the client - 
 
 1. Blockstore - 
